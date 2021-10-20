@@ -1,4 +1,4 @@
-import classes from './Cart.module.css'
+import classes from './Cart.module.css';
 import Modal from '../../UI/Modal';
 import CartItem from './CartItem';
 
